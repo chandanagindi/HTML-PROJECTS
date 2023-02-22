@@ -1,0 +1,30 @@
+html :<html>
+    <head>
+        <title>Mother therisa college</title>
+        <link rel="stylesheet" href="simple.css">
+        <link rel="stylesheet" 
+            href="https://fonts.googleapis.com/css?family=Josefin Slab|Shadows Into Light">
+    </head>
+    <body>
+        <h1>mother thersia college</h1>
+<p>Mother Theresa Institute of Engineering and Technology, a premier Engineering College, was established in the year 2010 with the objective of developing competent and responsible technocrats for the futuristic needs of India. Promoted by "Holy Cross Educational Society, Palamaner". MTIET is built on the spirited commitment and passion to impart quality education to the rural and remote student aspirant of technical education.MTIET is one of the seven centres of excellence established by the Holy Cross Educational Society, Palamaner to provide engineering education to the educationally backward western mandals of Chittoor District. It is located on Chennai - Bombay National Highway 219, 5 km from Palamaner, in a serene, lush-green and picturesque landscape surrounded by paddy fields and mango orchards. MTIET has embarked upon the pursuit of excellence in Engineering Education for the last 4 years. Committed to its mission and vision, the institute has been relentlessly working on grooming young minds and preparing them for delivering value to the nation and society at large.
+    From a small and humble beginning we have grown and continuously growing with the uninstinted policy of moving forward for a better tomorrow.</p>
+    <img src="https://www.motherteresacollege.net/images/banner1.jpg">
+    <button class="button"><a href="https://mtideg.edu.in/">click on</button>
+    </body>
+</html>
+css :body {
+     background-color: darkgrey;
+     text-align:center;
+}
+h1 {
+text-align: center;
+}
+button {
+   text-color:red ;
+
+}
+img {
+   width:40%;
+   height:50%;
+}
